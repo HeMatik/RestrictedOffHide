@@ -57,7 +57,7 @@ def menu():
     elif main_page == 2:
         m.Mail()
     elif main_page == 3:
-        ip.glinfoip()
+        ip.Ip()
     elif main_page == 4:
         sn.snils
     elif main_page == 5:
